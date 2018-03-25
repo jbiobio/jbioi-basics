@@ -1,4 +1,4 @@
-FROM kongdeju/centos-dev
+FROM jbioi/centos-dev
 
 LABEL VERSION = "3.4.3"
 
